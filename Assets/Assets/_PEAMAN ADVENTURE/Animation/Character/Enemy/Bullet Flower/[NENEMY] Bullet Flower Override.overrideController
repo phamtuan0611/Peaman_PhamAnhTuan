@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: '[NENEMY] Bullet Flower Override'
+  m_Controller: {fileID: 9100000, guid: 970b0ef9f55134966957c6f94ec67921, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8ede95773402f4605ac2255e71f21c87, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b6c2d48c6aea84cb1a3b1e9b95f5df0e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fd530f468ef5ace4ea6a104965feff95, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ff2c152e7e2dc4feaa8b924077a97fa9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f106ccf7472a5774bb45b9c540ce1499, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7483e8a7dca2a4346aa39be29fda4674, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e7a381df2d1e843a29a738c84d6ed2e5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cf46b2456d8c445268fe7e2ba700da69, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c3ca85431f8d9d64caeee6da121d5af8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cf46b2456d8c445268fe7e2ba700da69, type: 2}

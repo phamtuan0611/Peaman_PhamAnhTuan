@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: '[NENEMY] Spawner Worm'
+  m_Controller: {fileID: 9100000, guid: 970b0ef9f55134966957c6f94ec67921, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8ede95773402f4605ac2255e71f21c87, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5dd100b68814a4c45a7b6b26693abc18, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f106ccf7472a5774bb45b9c540ce1499, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bcc7bfb4ebd4e49a1b160b4643d2d022, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e7a381df2d1e843a29a738c84d6ed2e5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fcb9dc184d10e4f5a976bdee78cc20f7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c3ca85431f8d9d64caeee6da121d5af8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8d5b10df65d7f45ee8283380a9e39139, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: dc8fa539bbdfc60448dfb5b064211ff7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 400daa200bf6643a0a34b529881f9e35, type: 2}

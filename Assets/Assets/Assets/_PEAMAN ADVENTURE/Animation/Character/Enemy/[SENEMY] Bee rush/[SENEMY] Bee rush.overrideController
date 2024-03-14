@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: '[SENEMY] Bee rush'
+  m_Controller: {fileID: 9100000, guid: 0d168db32fdff83459c861eff1781fab, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 877c43af2dbc114489b68727a6ffdcf5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9df2248e8737f8a4ab596146adb8db60, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ad7c1e000a9284345968a0e7d1ce2d11, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 20c25f22d3e146a4090482c6494a0f98, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 74cf29ec853f5a24eaf69173de1419a7, type: 2}
+    m_OverrideClip: {fileID: 74713939371052992, guid: fe483bca916b3e84b8f875d7a701d5bb,
+      type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c3e307621cf28d24bb33f633c57ec055, type: 2}
+    m_OverrideClip: {fileID: 74162768029314472, guid: fe483bca916b3e84b8f875d7a701d5bb,
+      type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c913e9b607041414c9bf7d096f51310c, type: 2}
+    m_OverrideClip: {fileID: 74849212608706828, guid: fe483bca916b3e84b8f875d7a701d5bb,
+      type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b8dd75facb213044783e0f4ec2334587, type: 2}
+    m_OverrideClip: {fileID: 74617788770324732, guid: fe483bca916b3e84b8f875d7a701d5bb,
+      type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0d85354d2e942c74b8319a39701b004c, type: 2}
+    m_OverrideClip: {fileID: 74868667955538314, guid: fe483bca916b3e84b8f875d7a701d5bb,
+      type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f976b74fd0ff95a428a1e9d0bcbf128f, type: 2}
+    m_OverrideClip: {fileID: 74874830213147352, guid: fe483bca916b3e84b8f875d7a701d5bb,
+      type: 2}

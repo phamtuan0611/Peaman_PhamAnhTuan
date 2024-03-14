@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: '[NENEMY] BigMount'
+  m_Controller: {fileID: 9100000, guid: 0d168db32fdff83459c861eff1781fab, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ad7c1e000a9284345968a0e7d1ce2d11, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2ced14ab9d7d64114a170ea429b64a32, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 877c43af2dbc114489b68727a6ffdcf5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e2eab135d054b435c8168167bcfabaa9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c3e307621cf28d24bb33f633c57ec055, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c1d67017e7be649699a66940818208fc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 74cf29ec853f5a24eaf69173de1419a7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2ed0eb4be1e94431c9bb5a0a281d38ef, type: 2}
